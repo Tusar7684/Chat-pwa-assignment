@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chat-pwa-assignment/static/css/main.53b9d401.css",
+    "main.js": "/Chat-pwa-assignment/static/js/main.c9b36693.js",
+    "static/js/787.3824b5be.chunk.js": "/Chat-pwa-assignment/static/js/787.3824b5be.chunk.js",
+    "index.html": "/Chat-pwa-assignment/index.html",
+    "main.53b9d401.css.map": "/Chat-pwa-assignment/static/css/main.53b9d401.css.map",
+    "main.c9b36693.js.map": "/Chat-pwa-assignment/static/js/main.c9b36693.js.map",
+    "787.3824b5be.chunk.js.map": "/Chat-pwa-assignment/static/js/787.3824b5be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b9d401.css",
+    "static/js/main.c9b36693.js"
+  ]
+}
